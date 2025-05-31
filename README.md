@@ -13,6 +13,14 @@ This project showcases my SQL problem-solving abilities through the analysis of 
 
 ![ERD](https://github.com/user-attachments/assets/f8e8cb20-00bb-44d7-9cd4-839e15408e4d)
 
+---
+
+## Tech Stack
+
+- **Database Tool**: MySQL Workbench 
+- **Dataset**: [Zomato Sales]() 
+
+---
 
 ## Database Setup
 ```sql
@@ -710,3 +718,15 @@ FROM city_revenue;
 ## Conclusion
 
 This project highlights my ability to handle complex SQL queries and provides solutions to real-world business problems in the context of a food delivery service like Zomato. The approach taken here demonstrates a structured problem-solving methodology, data manipulation skills, and the ability to derive actionable insights from data.This project demonstrates my ability to analyze structured business data using SQL, focusing on a pizza delivery service. Through a series of practical queries, I’ve explored key performance metrics such as total revenue, best-selling items, sales trends by time and category, and customer ordering behavior. The project reflects a strong foundation in data modeling, querying normalized databases, and delivering insights that could help drive real-world decisions in the food and beverage industry.
+
+
+---
+
+## About Me
+
+I'm Vinay Raghuwanshi, currently pursuing BCA and specializing in Data Analytics and Business Intelligence.  
+
+📧 [vinayraghuwanshi206@gmail.com](mailto:vinayraghuwanshi206@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/vinay-raghuwanshi)
+
+---
