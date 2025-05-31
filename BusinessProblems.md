@@ -3,7 +3,7 @@
 Below are the key business problems tackled in this project using SQL queries:
 
 1. **Top 5 Dishes Ordered by Arjun Mehta (Last 1 Year)**
-   *Find the top 5 most frequently ordered dishes by customer "Arjun Mehta" in the last one year.*
+   *Find the top 5 most frequently ordered dishes by customer "Vikram Singh" in the last one year.*
 
 2. **Popular Time Slots**
    *Identify the time slots during which the most orders are placed, based on 2-hour intervals.*
