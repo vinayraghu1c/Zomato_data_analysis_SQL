@@ -11,6 +11,7 @@ This project showcases my SQL problem-solving abilities through the analysis of 
 - **Data Cleaning:** Handling null values and ensuring data integrity.
 - **Business Problems:** Solving 20 specific business problems using SQL queries.
 
+## ER Diagram 
 ![ERD](https://github.com/user-attachments/assets/f8e8cb20-00bb-44d7-9cd4-839e15408e4d)
 
 ---
