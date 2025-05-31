@@ -18,7 +18,7 @@ This project showcases my SQL problem-solving abilities through the analysis of 
 ## Tech Stack
 
 - **Database Tool**: MySQL Workbench 
-- **Dataset**: [Zomato Sales]() 
+- **Dataset**: [Zomato Sales](Dataset) 
 
 ---
 
@@ -88,7 +88,7 @@ ADD FOREIGN KEY (order_id) REFERENCES orders(order_id);
 ```
 
 ## Data Import
-'''
+```sql
 LOAD DATA LOCAL INFILE 'D:\\Projects\\Zomato\\customers.csv'
 INTO TABLE customers
 FIELDS TERMINATED BY ',' 
