@@ -6,12 +6,13 @@ This project demonstrates my SQL problem-solving skills through the analysis of 
 
 ## Project Structure
 
-- **Database Setup:** Creation of the `zomato_db` database and the required tables.
+- **Database Setup:** Creation of the `Zomato` database and the required tables.
 - **Data Import:** Inserting sample data into the tables.
 - **Data Cleaning:** Handling null values and ensuring data integrity.
 - **Business Problems:** Solving 20 specific business problems using SQL queries.
 
-![ERD](https://github.com/ShivakrishnaMacha/Zomato_SQL_Data_Analysis/blob/main/erd.png)
+![ERD](https://github.com/user-attachments/assets/f8e8cb20-00bb-44d7-9cd4-839e15408e4d)
+
 
 ## Database Setup
 ```sql
@@ -80,9 +81,6 @@ ADD FOREIGN KEY (order_id) REFERENCES orders(order_id);
 
 ## Data Import
 '''
-SHOW VARIABLES LIKE 'local_infile';
-SET GLOBAL local_infile = 1;
-
 LOAD DATA LOCAL INFILE 'D:\\Projects\\Zomato\\customers.csv'
 INTO TABLE customers
 FIELDS TERMINATED BY ',' 
